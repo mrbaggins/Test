@@ -4,7 +4,9 @@ My test
 <<<<<<< HEAD
 BRANCH MOAR test
 test branch
+
 =======
 WORDS
 STuff
+CONFLICT IN TEST
 >>>>>>> test
