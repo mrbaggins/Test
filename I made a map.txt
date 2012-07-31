@@ -1,6 +1,6 @@
 Test
 Test
 My test
-BRANCH MOAR test
-test branch
+WORDS
+STuff
 Conflict in master
